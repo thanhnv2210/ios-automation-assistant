@@ -1,0 +1,6 @@
+{
+  "platformName": "iOS",
+  "deviceName": "iPhone",
+  "automationName": "XCUITest",
+  "bundleId": "com.nexters.HeroWars" 
+}

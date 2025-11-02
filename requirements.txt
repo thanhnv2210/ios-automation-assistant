@@ -1,0 +1,4 @@
+appium-python-client
+opencv-python
+numpy
+Pillow
